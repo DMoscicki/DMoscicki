@@ -1,14 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+   Hi there 👋 I'm Dmitrij
+</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Reach me on:</h1>
 
 <p align="center">
-  
-  <img alt="LinkedIn" src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-mastitckii-028240211)" />
-  
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/dmitrii-mastitckii-028240211" />
 </p>
+  
 <!--
 **DMoscicki/DMoscicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
