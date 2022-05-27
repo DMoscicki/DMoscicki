@@ -2,9 +2,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Reach me on:
+<h1 align="center">Reach me on:</h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-mastitckii-028240211)
+<p align="center">
+  
+  <img alt="LinkedIn" src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-mastitckii-028240211)" />
+  
+</p>
 <!--
 **DMoscicki/DMoscicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
