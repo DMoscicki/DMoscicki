@@ -1,10 +1,15 @@
 <h1 align="center">
-   Hi there 👋 I'm Dmitrij
+   Hi there 👋 I'm Dmitrii
 </h1>
+ 
+<p align="center">
+   <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
+</p>
+<p align="center">
+   <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact)](https://github.com/DMoscicki/github-readme-stats)
-
-<h1 align="center">Reach me on:arrow_down:</h1>
+<h1 align="center">:mailbox:Reach me on:arrow_down:</h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/dmitrii-mastitckii-028240211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
