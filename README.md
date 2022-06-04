@@ -1,6 +1,6 @@
-<h1 align="center">
-   Hi there 👋 I'm Dmitrii
-</h1>
+<p align="center">
+   <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi! I'm Dmitrij, welcome to my page&width=800&height=100"
+</p>
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
