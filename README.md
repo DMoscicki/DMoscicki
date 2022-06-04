@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
    <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi! I'm Dmitrij, welcome to my page&width=800&height=100"
-</p>
+</h1>
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
