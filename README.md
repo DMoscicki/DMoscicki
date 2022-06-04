@@ -4,6 +4,12 @@
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
+
+- 🥷 That's my demo profile
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: Was Professional Football player and now people don't trust me, when i told them where i'm working😅
+
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true">
 </p>
