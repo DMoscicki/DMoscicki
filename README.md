@@ -1,7 +1,6 @@
 <h1 align="center">
    Hi there 👋 I'm Dmitrii
 </h1>
- 
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
