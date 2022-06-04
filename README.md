@@ -5,6 +5,9 @@
 <h3 align="center" dir="auto">
    Here i will publish my homework or another... sometimes.
 </h3>
+<p>
+   <img src="https://komarev.com/ghpvc/?username=DMoscicki&style=for-the-badge">
+</p>
    
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
