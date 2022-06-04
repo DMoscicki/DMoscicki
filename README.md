@@ -1,6 +1,11 @@
-<h1 align="center">
-   <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi! I'm Dmitrij, welcome to my page&width=800&height=100"
-</h1>
+
+<p dir="auto">
+   <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi! I'm Dmitrij, welcome to my page&width=1010&height=100"
+</p>
+<h3 align="center" dir="auto">
+   Here i will publish my homework or another... sometimes.
+</h3>
+   
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
