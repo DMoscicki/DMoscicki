@@ -16,7 +16,6 @@
 - 🥷 That's my demo profile
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Java
-- ⚡ Fun fact: was professional football player and now people don't trust me, when i told them where i'm working😅
 
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true">
