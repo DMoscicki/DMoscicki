@@ -15,7 +15,7 @@
 
 - 🥷 That's my demo profile
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Golang
 
 <p align="center">
    <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true">
