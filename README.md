@@ -1,7 +1,3 @@
-
-<p dir="auto">
-   <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!👋 I'm Dmitrij, welcome to my page 🧑🏼‍💻&width=1010&height=100"
-</p>
 <h3 align="center" dir="auto">
    Here i will publish my homework.
 </h3>
