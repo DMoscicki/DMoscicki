@@ -9,7 +9,6 @@
 </p>
    
 <p align="center">
-   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
    <img class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true" >
 </p>
 
