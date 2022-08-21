@@ -14,7 +14,7 @@
 </p>
 
 - 🥷 That's my demo profile
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Python, Golang
 - 🌱 I’m currently learning Golang
 
 <p align="center">
