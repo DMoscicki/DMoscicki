@@ -4,9 +4,6 @@
 <h3 align="center" dir="auto">
    Here i will publish my homework.
 </h3>
-<p>
-   <img src="https://komarev.com/ghpvc/?username=DMoscicki&style=for-the-badge">
-</p>
    
 <p align="center">
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
@@ -28,7 +25,11 @@
   <a href="mailto:mastitckii@outlook.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Dimulgator"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    
-<p>
+</p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=DMoscicki&style=for-the-badge">
+</p>
   
 <!--
 **DMoscicki/DMoscicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
