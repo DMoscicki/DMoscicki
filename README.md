@@ -9,7 +9,8 @@
 </p>
    
 <p align="center">
-   <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
+   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
+   <img class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true" >
 </p>
 
 - 🥷 That's my demo profile
@@ -17,7 +18,7 @@
 - 🌱 I’m currently learning Golang
 
 <p align="center">
-   <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=DMoscicki&show_icons=true">
+   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 <h1 align="center">:mailbox:Reach me on:arrow_down:</h1>
