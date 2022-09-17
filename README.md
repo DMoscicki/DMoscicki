@@ -10,7 +10,7 @@
 </p>
 
 - 🥷 That's my demo profile
-- 🔭 I’m currently working on [DesktopApp](https://github.com/DMoscicki/DesktopApp)
+- 🔭 I’m currently working on [Task client](https://github.com/DMoscicki/DesktopApp)
 - 🌱 I’m currently learning Golang
 
 <p align="center">
