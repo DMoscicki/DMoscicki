@@ -1,9 +1,6 @@
 <p dir="auto">
    <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I'm%20Dmitry.%20Welcome%20to%20my%20page🧑🏼‍💻&width=1010&height=100"
 </p>
-<h3 align="center" dir="auto">
-   Here i will publish my homework.
-</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
@@ -23,6 +20,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
 <h1 align="center">:mailbox:Reach me on:arrow_down:</h1>
