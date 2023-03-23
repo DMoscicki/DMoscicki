@@ -6,7 +6,7 @@
 </h3>
    
 <p align="center">
-   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
+   <img alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
 
 - 🥷 That's my demo profile.
