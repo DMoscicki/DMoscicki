@@ -9,9 +9,7 @@
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact">
 </p>
 
-- 🥷 That's my demo profile
-- 🔭 I’m currently working on [Task client](https://github.com/DMoscicki/Task-Client)
-- 🌱 I’m currently learning Golang
+- 🥷 That's my demo profile.
 
 <p align="center">
    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
