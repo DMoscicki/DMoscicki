@@ -26,7 +26,7 @@ Languages and Tools:
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
-<h1 align="center">Reach me on:arrow_down</h1>
+<h1 align="center">Reach me on</h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/dmitrii-mastitckii-028240211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
