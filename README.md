@@ -11,7 +11,7 @@
    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p> -->
 ---
-### :hammer_and_wrench: Languages and Tools:
+Languages and Tools:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
-<h1 align="center">:mailbox:Reach me on:arrow_down:</h1>
+<h1 align="center">Reach me on:arrow_down</h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/dmitrii-mastitckii-028240211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
