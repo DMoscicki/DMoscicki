@@ -2,11 +2,8 @@
    <img alt="SVG Banners" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I'm%20Dmitry.%20Welcome%20to%20my%20page🧑🏼‍💻&width=1010&height=100"
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMoscicki&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
-- 🥷 That's my demo profile.
+- Golang dev, Rust lover
 <!-- <p align="center">
    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p> -->
